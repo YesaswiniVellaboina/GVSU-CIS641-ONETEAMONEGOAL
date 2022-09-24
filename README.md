@@ -10,5 +10,8 @@ Project description: Developing a user interface using salesforce communities,ap
 
 
 ## Prerequisites
+Salesforce Developer Org,Visual Studio Code.
 
 ## Run Instructions
+Developer Org -Salesforce
+Apex Programming- Visual Studio Code
