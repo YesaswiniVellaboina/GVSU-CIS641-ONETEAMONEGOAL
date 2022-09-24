@@ -5,7 +5,7 @@ Project description: Developing a user interface using salesforce communities,ap
 
 ## Team Members and Roles
 
-* [Yesaswini Vellaboina](https://github.com/YesaswiniVellaboina/CIS641-HW2-Vellaboina) Developer
+* [Yesaswini Vellaboina](https://github.com/YesaswiniVellaboina/CIS641-HW2-Vellaboina) Administrator & Developer
 * [Venkata Rahul Murarisetty](https://github.com/venkata-rahul07/CIS641-HW2-Murarisetty) Developer
 
 
