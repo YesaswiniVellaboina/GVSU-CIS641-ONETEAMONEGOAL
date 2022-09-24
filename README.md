@@ -1,10 +1,11 @@
-# Team Name
+# ONE TEAM ONE GOAL
 
-Project description (~1 paragraph)
+Project description: Developing a user interface using salesforce communities,apex programming,flows and lightning web components.
+
 
 ## Team Members and Roles
 
-* Member 1 (Role 1, Role 2)
+* [Yesaswini Vellaboina] (https://github.com/YesaswiniVellaboina/CIS641-HW2-Vellaboina),( Developer)
 * [Venkata Rahul Murarisetty](https://github.com/venkata-rahul07/CIS641-HW2-Murarisetty) Developer
 
 
