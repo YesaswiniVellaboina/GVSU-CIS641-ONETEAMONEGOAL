@@ -5,6 +5,7 @@ Team members:Yesaswini Vellaboina ,Murarisetty Venkata Rahul
 # Introduction
 
 This project is all about developing a customised user interface using salesforce communities, which helps the users to buy,sell or donate the old,new or less used products which inturn helps the people who are in need.
+
 An idea to recycle the products by creating a website to sell,buy or donate the old clothes,toys and books which would help the people who actually need them.Salesforce is a platform to develop the communities in which a customised user interface could be developed.
 
 # Anticipated Technologies
