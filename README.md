@@ -8,7 +8,6 @@ Project description: Developing a user interface using salesforce communities,ap
 * [Yesaswini Vellaboina](https://github.com/YesaswiniVellaboina/CIS641-HW2-Vellaboina) Administrator & Developer
 * [Venkata Rahul Murarisetty](https://github.com/venkata-rahul07/CIS641-HW2-Murarisetty) Developer
 
-
 ## Prerequisites
 Salesforce Developer Org,Visual Studio Code.
 
