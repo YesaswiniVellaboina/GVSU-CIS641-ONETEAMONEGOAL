@@ -30,14 +30,14 @@ Software Requirements Specification(SRS), describes the requirements and the nat
 
 1. cart
 
-	 1.The products shall be wishlisted or added to the favorites as per the customer interests.
-	 2.The products which are out of stock and added to the wishlist shall be notified to the customer when ever the product is in stock again.
-	 3.The website shall allow the customer to enter their feedbacks and reviews about the website service.
-	 4.The offers on a product shall be displayed when a customer views a product.
+	 1. The products shall be wishlisted or added to the favorites as per the customer interests.
+	 2. The products which are out of stock and added to the wishlist shall be notified to the customer when ever the product is in stock again.
+	 3. The website shall allow the customer to enter their feedbacks and reviews about the website service.
+	 4. The offers on a product shall be displayed when a customer views a product.
 
 2. Homepage
 
-	 1.The updations on the website shall be reflected to the customer whenever the customer is connected to the server.
-	 2.The additional offers and discounts on the products shall be displayed to the customer in the order page.
-	 3.The website shall be flexible to do any updates are changes depending upon customer feedback.
-	 4.The user details and interest shall be saved automatically by user selction.
+	 1. The updations on the website shall be reflected to the customer whenever the customer is connected to the server.
+	 2. The additional offers and discounts on the products shall be displayed to the customer in the order page.
+	 3. The website shall be flexible to do any updates are changes depending upon customer feedback.
+	 4. The user details and interest shall be saved automatically by user selction.
