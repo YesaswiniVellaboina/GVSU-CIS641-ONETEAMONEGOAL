@@ -25,3 +25,18 @@ Apex Programming- Visual Studio Code
 	javascript to construct the more complicated aspects of our website
 	HTML code is used to describe how webpages are organized.
 	Use CSS for both layout and style.
+	
+  ### Artifacts
+
+
+
+*[Activity Diagram.pdf](https://github.com/YesaswiniVellaboina/GVSU-CIS641-ONETEAMONEGOAL/blob/master/docs/Activity%20Diagram.pdf)
+
+
+*[Class Diagram.pdf](https://github.com/YesaswiniVellaboina/GVSU-CIS641-ONETEAMONEGOAL/blob/master/docs/Class%20Diagram.pdf)
+
+*[Object Diagram.pdf](https://github.com/YesaswiniVellaboina/GVSU-CIS641-ONETEAMONEGOAL/blob/master/docs/Object%20Diagram.pdf)
+
+*[sequence diagram and state machine diagram.pdf](https://github.com/YesaswiniVellaboina/GVSU-CIS641-ONETEAMONEGOAL/blob/master/docs/sequence%20diagram%20and%20state%20machine%20diagram.pdf)
+
+*[use case diagram.PDF](https://github.com/YesaswiniVellaboina/GVSU-CIS641-ONETEAMONEGOAL/blob/master/docs/Use%20case%20diagram.pdf)
