@@ -20,7 +20,7 @@ Discussion points:
 
 Goals for next week:
 
-*For next week, we have dealt with creating object diagrams.
+* For next week, we have dealt with creating object diagrams.
 
-*Listening to class helped us creating these diagrams.
+* Listening to class helped us creating these diagrams.
 
