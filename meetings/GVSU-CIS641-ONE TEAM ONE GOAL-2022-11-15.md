@@ -1,11 +1,11 @@
-# CIS641 Meeting Instructions
-## Meeting minutes template
+
 
 Team name: ONE TEAM ONE GOAL
 
 Members present:  
    * Venkata Rahul MURARISETTY
-    * Yassine Vellaboina
+   
+   * Yassine Vellaboina
 
 Date: 11/15/22
 
