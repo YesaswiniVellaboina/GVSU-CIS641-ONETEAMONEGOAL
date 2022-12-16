@@ -21,8 +21,8 @@ Discussion points:
 
 Goals for next week:
 
-*For next week, we have dealt with creating class diagrams.
+* For next week, we have dealt with creating class diagrams.
 
-*I took an opportunity to take leadership and we dealt with creating diagrams.
+* I took an opportunity to take leadership and we dealt with creating diagrams.
 
-*My teammate holds a position where he can gather information about attributes and Relationships.
+* My teammate holds a position where he can gather information about attributes and Relationships.
