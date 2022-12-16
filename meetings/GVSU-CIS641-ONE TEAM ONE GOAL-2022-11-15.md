@@ -17,7 +17,7 @@ Discussion points:
 
 Goals for next week:
 
-*In next step, we discussed about testing our code.
+* In next step, we discussed about testing our code.
 
 
 
