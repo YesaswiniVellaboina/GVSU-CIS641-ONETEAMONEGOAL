@@ -5,7 +5,7 @@ Team name: ONE TEAM ONE GOAL
 Members present:  
    * Venkata Rahul MURARISETTY
    
-   * Yassine Vellaboina
+   * Yesaswini Vellaboina
 
 Date: 10/25/22
 
