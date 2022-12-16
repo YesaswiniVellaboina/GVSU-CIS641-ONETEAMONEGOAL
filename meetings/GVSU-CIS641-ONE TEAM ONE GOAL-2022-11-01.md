@@ -1,5 +1,4 @@
-# CIS641 Meeting Instructions
-## Meeting minutes template
+
 
 Team name: ONE TEAM ONE GOAL
 
